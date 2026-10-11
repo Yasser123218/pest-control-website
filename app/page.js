@@ -14,7 +14,7 @@ export default function Home() {
         textAlign: "center"
       }}>
         <h1 style={{fontSize: "42px", marginBottom: "20px"}}>
-          الشركة الألمانية المتقدمة
+          A.G الشركة الألمانية 
         </h1>
 
         <h2 style={{fontSize: "28px", marginBottom: "20px"}}>
